@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LordMartron94/MD.CBAConnector.JS/issues"
   },
-  "homepage": "https://github.com/LordMartron94/MD.CBAConnector.JS#readme"
+  "homepage": "https://github.com/LordMartron94/MD.CBAConnector.JS#readme",
+  "dependencies": {
+    "uuid": "^11.0.5"
+  }
 }
