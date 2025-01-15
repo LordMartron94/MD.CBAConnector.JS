@@ -1,0 +1,20 @@
+{
+  "name": "md.cbaconnector.js",
+  "version": "1.0.0",
+  "description": "My library for connecting to my CBAf (Component-Based Architecture Foundation/Framework) in JavaScript.",
+  "main": "md.cbaconnector.js/components/main.js",
+  "scripts": {
+    "run": "node md.cbaconnector.js/components/main.js",
+    "test": "node md.cbaconnector.js/tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordMartron94/MD.CBAConnector.JS.git"
+  },
+  "author": "Mr. Hoorn",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/LordMartron94/MD.CBAConnector.JS/issues"
+  },
+  "homepage": "https://github.com/LordMartron94/MD.CBAConnector.JS#readme"
+}
